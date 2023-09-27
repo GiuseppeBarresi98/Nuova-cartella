@@ -1,0 +1,85 @@
+@import url("https://fonts.googleapis.com/css2?family=Lora:wght@600;700&family=Montserrat:ital,wght@1,400;1,700&family=Prata&family=Roboto:ital,wght@0,400;1,700&display=swap");
+
+body {
+  margin: 0;
+  font-family: "Lora", serif;
+}
+
+.logo {
+  margin-inline: auto;
+  background-color: white;
+  width: 200px;
+}
+.first-image {
+  width: 100%;
+  margin-top: 20px;
+}
+
+.hr {
+  border: 1px solid #fedb82;
+  margin: 0;
+}
+
+.header-text {
+  text-align: center;
+  background-color: #fdfbf1;
+  padding: 15px;
+  margin-bottom: 2em;
+}
+
+h4 {
+  margin: auto;
+}
+#section-one {
+  width: 37%;
+
+  text-align: center;
+  margin: auto;
+}
+h1 {
+  margin: auto;
+}
+.featured {
+  text-align: left;
+  border-left: 1px solid rgb(223, 223, 43);
+}
+.Description-image {
+  margin-top: 3rem;
+  color: red;
+  border-bottom: 0px;
+  padding-left: 20px;
+}
+.first-p a {
+  color: rgb(47, 151, 151);
+}
+
+.first-p {
+  margin-top: 0;
+  padding-left: 20px;
+}
+.focaccia {
+  box-shadow: black;
+  border-radius: 10px;
+}
+.Ingredients {
+  margin-inline: auto;
+  text-align: left;
+}
+.linea {
+  border: 1px solid rgb(193, 222, 222);
+}
+
+ul li {
+  padding: 0.4rem;
+}
+.make-focaccia {
+  padding-left: 1.7rem;
+  margin-bottom: 0;
+}
+.last-p {
+  padding-left: 2rem;
+  margin-top: 2px;
+}
+.last-a {
+  color: rgb(47, 151, 151);
+}
